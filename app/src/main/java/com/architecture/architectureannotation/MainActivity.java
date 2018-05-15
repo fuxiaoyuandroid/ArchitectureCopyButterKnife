@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mUnBinder = ButterKnife.bind(this);
-        t1.setText("ces");
-        t2.setText("h1");
+        t1.setText("darren");
+        t2.setText("rain");
     }
 
     @Override
